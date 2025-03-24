@@ -12,7 +12,7 @@ def check_divisibility(num, divisor):    # define function to check divisibility
 
 
 
-# Task 2
+Task 2
 # Invoke the function "check_divisibility" using the following scenarios:
 # - 10, 2
 # - 7, 3
