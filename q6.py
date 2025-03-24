@@ -22,7 +22,7 @@ def find_first_negative(lst):    # define function to find first negative number
 
 
 
-# Task 2
+Task 2
 # Invoke the function "find_first_negative" using the following scenario:
 # - [3, 5, -1, 7, -2, 8]
 # - [2, 10, 7, 0]
