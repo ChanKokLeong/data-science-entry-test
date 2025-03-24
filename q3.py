@@ -15,12 +15,7 @@ Task 2
 # - {}, "name", "Alice"
 # - {"age": 25}, "age", 26
 
-def update_dictionary(dict, key, value):
-  if key in dict:
-    print(f'Original value for key: "{key}": {dict[key]}')
-  dict[key] = value
-  return dict
 
-my_dict = {'name': 'Alice', 'age': 26}
+my_dict = {'name': 'Alice', 'age': 25}
 my_dict = update_dictionary(my_dict, 'age', 26)
 print(my_dict)
