@@ -14,7 +14,7 @@ def replace_value(lst, find_item, new_value):  # define function to replace find
 
 
 
-# Task 2
+Task 2
 # Invoke the function "find_and_replace" using the following scenarios:
 # - [1, 2, 3, 4, 2, 2], 2, 5
 # - ["apple", "banana", "apple"], "apple", "orange"
