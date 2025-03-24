@@ -10,9 +10,9 @@ def reverse_string(s):          # define function to reverse a string (s)
 
 
 Task-2
-Invoke the function "string_reverse" using the following scenarios:
-# - "Hello World"
-# - "Python"
+# Invoke the function "string_reverse" using the following scenarios:
+# "Hello World"
+# "Python"
 
 s = 'Hello World'
 result = reverse_string(s)
